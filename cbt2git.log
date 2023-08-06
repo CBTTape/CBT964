@@ -1,0 +1,12 @@
+2023-08-06 08:44:08.089097 - Initialized conversion of CBT964
+2023-08-06 08:44:08.164704 - Received CBT.V505.FILE964.PDS from FILE964.XMI 
+2023-08-06 08:44:08.167177 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE964.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:44:08.168222 - Found $$$VSAM.txt (text/plain) in CBT.V505.FILE964.PDS, moved to PDS/$$$VSAM
+2023-08-06 08:44:08.169355 - Found $CHANGES.txt (text/plain) in CBT.V505.FILE964.PDS, moved to PDS/$CHANGES
+2023-08-06 08:44:08.170319 - Found @FILE964.txt (text/plain) in CBT.V505.FILE964.PDS, moved to PDS/@FILE964
+2023-08-06 08:44:08.171251 - Found OLDVERS.txt (text/plain) in CBT.V505.FILE964.PDS, moved to PDS/OLDVERS
+2023-08-06 08:44:08.172253 - Found RXDATE.rexx (text/plain) in CBT.V505.FILE964.PDS, moved to PDS/RXDATE
+2023-08-06 08:44:08.173156 - Found VI.rexx (text/plain) in CBT.V505.FILE964.PDS, moved to PDS/VI
+2023-08-06 08:44:08.174114 - Found VI#1.txt (text/plain) in CBT.V505.FILE964.PDS, moved to PDS/VI#1
+2023-08-06 08:44:08.175055 - Found VI#1H.txt (text/plain) in CBT.V505.FILE964.PDS, moved to PDS/VI#1H
+2023-08-06 08:44:08.175926 - Found VIX.rexx (text/plain) in CBT.V505.FILE964.PDS, moved to PDS/VIX
