@@ -1,11 +1,11 @@
-2025-04-15 07:07:56.514809 - Received CBT.V508.FILE964.PDS from FILE964.XMI 
-2025-04-15 07:07:56.515834 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/$$$#DATE
-2025-04-15 07:07:56.516003 - Found $$$VSAM.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/$$$VSAM
-2025-04-15 07:07:56.516128 - Found $CHANGES.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/$CHANGES
-2025-04-15 07:07:56.516241 - Found @FILE964.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/@FILE964
-2025-04-15 07:07:56.516415 - Found OLDVERS.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/OLDVERS
-2025-04-15 07:07:56.516667 - Found RXDATE.rexx (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/RXDATE
-2025-04-15 07:07:56.516782 - Found VI.rexx (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/VI
-2025-04-15 07:07:56.516873 - Found VI#1.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/VI#1
-2025-04-15 07:07:56.516987 - Found VI#1H.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/VI#1H
-2025-04-15 07:07:56.517106 - Found VIX.rexx (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/VIX
+2025-04-16 01:50:07.707039 - Received CBT.V508.FILE964.PDS from FILE964.XMI 
+2025-04-16 01:50:07.707891 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/$$$#DATE
+2025-04-16 01:50:07.707954 - Found $$$VSAM.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/$$$VSAM
+2025-04-16 01:50:07.707997 - Found $CHANGES.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/$CHANGES
+2025-04-16 01:50:07.708037 - Found @FILE964.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/@FILE964
+2025-04-16 01:50:07.708083 - Found OLDVERS.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/OLDVERS
+2025-04-16 01:50:07.708154 - Found RXDATE.rexx (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/RXDATE
+2025-04-16 01:50:07.708214 - Found VI.rexx (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/VI
+2025-04-16 01:50:07.708265 - Found VI#1.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/VI#1
+2025-04-16 01:50:07.708312 - Found VI#1H.txt (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/VI#1H
+2025-04-16 01:50:07.708351 - Found VIX.rexx (text/plain) in CBT.V508.FILE964.PDS, moved to PDS/VIX
